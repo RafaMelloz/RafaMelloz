@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/rafa-melo-b68b5923b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/rafa-melo-b68b5923b/) 
 
-![RafaMelloz GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMelloz&show_icons=true&theme=tokyonight)
+<!--![RafaMelloz GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaMelloz&show_icons=true&theme=tokyonight)-->
 
 ### 🚀 Tecnologias das quais trabalho ou ja trabalhei: 🚀
 
