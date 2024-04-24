@@ -4,7 +4,7 @@ Ola! Me chamo **Rafael**, estudante de analise e desenvolvimentos de sistemas pe
 Atualmente formado em TI pela FIEB, e com diversos cursos com foco no front-End
 
 ### Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,github)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,github)
 
 ### Contato:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/rafael-melo-b68b5923b/))
