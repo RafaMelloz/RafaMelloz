@@ -7,8 +7,8 @@ Atualmente formado em TI pela FIEB, e com diversos cursos com foco no front-End
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,github)
 
 ### Contato:
-[![linkedin](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/rafael-melo-b68b5923b/))
-[![gmail](https://skillicons.dev/icons?i=gmail)](rafaelmeloalvessouza@gmail.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/rafael-melo-b68b5923b/))
+[![gmail](https://skillicons.dev/icons?i=gmail)](malito:rafaelmeloalvessouza@gmail.com)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaMelloz&layout=compact&theme=tokyonight)](https://github.com/RafaMelloz/github-readme-stats)-->
